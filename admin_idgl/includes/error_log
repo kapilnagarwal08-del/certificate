@@ -1,0 +1,29 @@
+[21-Jan-2024 10:15:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/ushamobi/public_html/idgllab.com/admin_idgl/includes/config.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/ushamobi/public_html/idgllab.com/admin_idgl/includes/config.php on line 3
+[21-Jan-2024 10:19:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/ushamobi/public_html/idgllab.com/admin_idgl/includes/config.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/ushamobi/public_html/idgllab.com/admin_idgl/includes/config.php on line 3
+[21-Jan-2024 10:19:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/ushamobi/public_html/idgllab.com/admin_idgl/includes/config.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/ushamobi/public_html/idgllab.com/admin_idgl/includes/config.php on line 3
+[21-Jan-2024 10:19:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/ushamobi/public_html/idgllab.com/admin_idgl/includes/config.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/ushamobi/public_html/idgllab.com/admin_idgl/includes/config.php on line 17
+[21-Jan-2024 10:19:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/ushamobi/public_html/idgllab.com/admin_idgl/includes/config.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/ushamobi/public_html/idgllab.com/admin_idgl/includes/config.php on line 17
+[31-May-2025 03:34:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/ushamobi/public_html/3dexpereinces.com/demo/idgllab/admin_idgl/includes/config.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/ushamobi/public_html/3dexpereinces.com/demo/idgllab/admin_idgl/includes/config.php on line 3
+[31-May-2025 03:34:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/ushamobi/public_html/3dexpereinces.com/demo/idgllab/admin_idgl/includes/config.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/ushamobi/public_html/3dexpereinces.com/demo/idgllab/admin_idgl/includes/config.php on line 3
+[31-May-2025 03:37:57 UTC] PHP Warning:  Use of undefined constant link - assumed 'link' (this will throw an Error in a future version of PHP) in /home/ushamobi/public_html/3dexpereinces.com/demo/idgllab/admin_idgl/includes/config.php on line 19
